@@ -5,6 +5,8 @@ Load json files from a directory individualy
 
 what does this script work for? well, it is for those who want to load several separate jsons files in a single folder, and put them in a dictionary, for example.
 this is for mod proposals or dlcs, but also for the case of loading several items organized in their own folder.
+
+
 ![alt text](./image%20(17).png)![alt text](image%20(16).png)
 # HOW IT CAN WORK
 
