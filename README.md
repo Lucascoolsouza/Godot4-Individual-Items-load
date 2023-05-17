@@ -19,4 +19,4 @@ The merge_json_data function takes a dictionary containing item data and merges 
 
 # HOW TO INSTALL
 
-Paste this godot4 script in your folder, and load as singleton 
+Paste this godot4 script in your folder, and load as singleton.
