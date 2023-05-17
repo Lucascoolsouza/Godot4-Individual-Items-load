@@ -23,9 +23,6 @@ func load_json_files(directoryPath : String):
 						if itemData.has(item_name):
 							print("Warning: Duplicate key in itemData:", item_name)
 						itemData[item_name] = json_data
-				else:
-					print("Unsupported file:", file_path)
-					pass
 			file_name = dir.get_next()
 	else:
 		print("Error accessing the directory.")
@@ -42,7 +39,7 @@ func load_json_file(filePath : String):
 		print("File does not exist:", filePath)
 		
 func merge_json_data(jsonData: Dictionary):
-	var itemName = jsonData["nome"]
+	var itemName = jsonData["name"]
 	if itemData.has(itemName):
 		print("Warning: Duplicate key in itemData:", itemName)
 	else:
