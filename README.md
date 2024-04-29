@@ -1,4 +1,4 @@
-# Godot4-Individual-Items-load
+# Godot4-Individual-Items-load // ECS
 Load json files from a directory individualy 
 
 # HOW THIS WORKS
